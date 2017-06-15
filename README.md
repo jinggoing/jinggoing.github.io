@@ -1,0 +1,2 @@
+# jinggoing.github.io
+blog
